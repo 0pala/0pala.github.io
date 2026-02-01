@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* General */
+* {
+    font-family: 'Ubuntu Sans Mono', monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+
+    margin: 0;
+    padding: 0;
+    
+    transition: all 200ms ease-in-out;
+
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+}
+/* END */

@@ -1,0 +1,15 @@
+@import "/css/var.css";
+@import "/css/background.css";
+
+/* Navbar */
+nav {
+    position: fixed;
+    height: 70px;
+}
+
+.logo img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+/* END */
